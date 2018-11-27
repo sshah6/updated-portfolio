@@ -1,2 +1,2 @@
 Newer version of the portfolio from week 2. 
-https://pezgrrl.github.io/portfolio-revamp/
+https://sshah6.github.io/updated-portfolio/
